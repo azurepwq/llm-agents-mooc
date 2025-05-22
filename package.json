@@ -1,0 +1,15 @@
+{
+  "name": "llm-agents-mooc",
+  "version": "1.0.0",
+  "description": "Resources for the LLM Agents MOOC by Denny Zhou.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azurepwq/llm-agents-mooc.git"
+  },
+  "author": "azurepwq",
+  "license": "MIT"
+} 
